@@ -1,0 +1,17 @@
+body {
+  background: white;
+  color: #000000;
+}
+body a {
+  text-decoration: none;
+}
+body a:hover {
+  color: white;
+}
+body p {
+  background: blue;
+  margin: 12px;
+}
+body aside {
+  margin-left: 40px;
+}
